@@ -1,0 +1,4 @@
+(executable
+ (public_name colors)
+ (name main)
+ (libraries colors dream))

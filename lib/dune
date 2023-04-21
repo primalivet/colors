@@ -1,0 +1,3 @@
+(library
+ (name colors)
+ (libraries base dream tyxml))
